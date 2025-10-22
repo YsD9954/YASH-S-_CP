@@ -1,0 +1,18 @@
+HDFC:
+  identifiers:
+    - "HDFC BANK"
+  note: "HDFC patterns"
+ICICI:
+  identifiers:
+    - "ICICI"
+  note: "ICICI patterns"
+SBI:
+  identifiers:
+    - "SBI CARD"
+  note: "SBI patterns"
+AXIS:
+  identifiers:
+    - "AXIS BANK"
+AMEX:
+  identifiers:
+    - "AMERICAN EXPRESS"
