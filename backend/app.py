@@ -1,8 +1,8 @@
 # backend/app.py
 from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from parser.extractor import StatementParser
-from parser.postprocess import PostProcessor
+from .parser.extractor import StatementParser
+from .parser.postprocess import PostProcessor
 import tempfile
 import os
 import re
